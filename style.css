@@ -8,12 +8,12 @@ html{
     scroll-behavior: smooth;
 }
 :root{
-    --background: #ffe4e1;
+    --background: #db7093;
     --text-color:#fff;
     --title-color:#fff;
 }
 .light-theme{
-    --background: #e9ebee;
+    --background: #ffe4e1;
     --text-color:#000;
     --title-color:#000;
 }
